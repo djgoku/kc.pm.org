@@ -1,0 +1,53 @@
+
+* {font-family: Verdana, Arial, Helvetica, sans-serif}
+body {
+  background-color: #ffffff;
+  background-image: url("/web/20160829085632im_/http://kc.pm.org/bg.jpg");
+  background-repeat: repeat
+}
+
+a {text-decoration:none}
+a:link    {color:white}
+a:visited {color:gray}
+a:hover   {color:red;text-decoration:underline}
+a:active  {color:red}
+
+.leading:first-letter {color: #990000;font-size:large;font-weight:bold}
+h1 {text-align:center;font-size:large;color: #B78900}
+.quote {
+  font-family: sans-serif;Coronet; Georgia, Times New Roman, Verdana;
+  font-size:10pt;
+  color:#FFFFCC;
+  text-align:right;
+  padding-right:6ex;
+  padding-left:6ex;
+}
+
+table {border:0;padding:0;border-collapse:collapse;border-spacing:0}
+.doc_frame {background-color:#B1AE76;margin: 2ex 2cm 2cm 2cm;text-align:center}
+table.doc_frame {margin-left:auto;margin-right:auto}
+
+.head_pri {background-color:#666600}
+.head_sec {background-color:#B78900;text-align:right;font-size:smaller;padding-right:2em;color:#FFFFCC}
+.head_text {font-family: Comic Sans MS, Trebuchet MS;font-size:20pt;color:#B1AE76;text-align:left}
+
+.footer   {text-align:center;font-size:xx-small}
+
+.menu_frame {vertical-align:top;width:7em}
+.menu_header {text-align:center;font-size:larger;font-weight:bold;background-color:#999933}
+.menu_header:first-letter {color: #990000}
+.menu_item {text-align:center;font-size:smaller}
+.menu_block {padding-bottom:2ex}
+
+.text_frame {vertical-align:top;background-color:#ffffff;margin: 2ex 2ex 2ex 2ex;font-size:normal}
+.text_frame a:link {color:blue}
+
+
+/*
+     FILE ARCHIVED ON 08:56:32 Aug 29, 2016 AND RETRIEVED FROM THE
+     INTERNET ARCHIVE ON 00:52:24 Oct 11, 2017.
+     JAVASCRIPT APPENDED BY WAYBACK MACHINE, COPYRIGHT INTERNET ARCHIVE.
+
+     ALL OTHER CONTENT MAY ALSO BE PROTECTED BY COPYRIGHT (17 U.S.C.
+     SECTION 108(a)(3)).
+*/
